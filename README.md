@@ -1,0 +1,2 @@
+This Capstone project, in a way signals the end of the 2022 All-female cohort classes. Next, the real work starts. I have been given an opportunity of a life time to learn and start something incredible as a software engineer, and I look forward to becoming excellent.
+This projects' goal is to create a resume, and here I get to showcase individuality, creativity, research, and sheer guts; as most I work hard to learn quick-paced.
