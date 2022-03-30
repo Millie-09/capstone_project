@@ -17,6 +17,11 @@ body{
     background-color: var(--body-bg-color);
 }
 
+img{
+    max-width: 100%;
+    height:auto;
+}
+
 .content-wrapper{
     text-align: left;
     width: 100%;
