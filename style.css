@@ -18,8 +18,9 @@ body{
 }
 
 img{
-    max-width: 100%;
+    max-width: 50%;
     height:auto;
+    float:left;
 }
 
 .content-wrapper{
