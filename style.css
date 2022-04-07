@@ -91,6 +91,7 @@ div.container img{
     padding: 10px;
     margin: 0 30px;
     box-shadow: 0 0 4px rgba(0, 0, 0, .3);
+    transform: rotate (-4deg);
     width:30%;
     max-width: 220px;
 }
