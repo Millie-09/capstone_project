@@ -17,8 +17,8 @@ body{
     background-color: var(--body-bg-color);
 }
 
-#work {
-    margin-bottom:10px;
+span#work {
+    padding: 0 0 -5px 0;
     }
     
 .container{
