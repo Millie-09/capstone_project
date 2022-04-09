@@ -19,6 +19,7 @@ body{
 
 span#work {
     padding: 0 0 -5px 0;
+    display: inline-block;
     }
     
 .container{
