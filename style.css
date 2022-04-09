@@ -221,7 +221,7 @@ div.container img{
 }
 
 input:checked + .slider{
-    background-color:#4ef5e7;
+    background-color:#191970;
 }
 
 input:checked + .slider:before{
