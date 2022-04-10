@@ -30,7 +30,8 @@ span#work {
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    box-shadow: 20px 20px #f1f1a5;
+    box-shadow: 0 1rem 2rem #f1f1a5;
+    border-radius: 10px;
 }
 
 
@@ -101,6 +102,7 @@ div.container img{
     transform: rotate (-4deg);
     width:30%;
     max-width: 220px;
+    border-radius: 10px;
 }
 
 @media screen and (max-width:1100px){
